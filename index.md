@@ -1,4 +1,4 @@
-## Víctor Gutiérrez de Pablo
+## About me
 
 You can use the [editor on GitHub](https://github.com/VictorGDP/VictorGDP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
