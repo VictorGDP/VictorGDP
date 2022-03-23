@@ -1,5 +1,7 @@
 ## About me
 
+I am a PhD student on Information and Telecommunication Technologies at the University of Valladolid (Spain), focused on Biomedical Engineering. Since October 2019, I was hired by the [Biomedical Engineering Group](http://www.gib.tel.uva.es/?lang=en_EN). 
+
 You can use the [editor on GitHub](https://github.com/VictorGDP/VictorGDP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
